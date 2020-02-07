@@ -4,7 +4,7 @@
   "description": "Ledger Live - Desktop",
   "version": "2.0.0-nightly.20200206T2200",
   "author": "Ledger Live Team <team-live@ledger.fr>",
-  "repository": "https://github.com/LedgerHQ/lld-v2",
+  "repository": "https://github.com/MortalKastor/lld-v2",
   "license": "MIT",
   "private": true,
   "main": "./.webpack/main.bundle.js",
